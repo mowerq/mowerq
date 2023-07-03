@@ -20,5 +20,5 @@
 
 #### Tools
 
-<img src="https://assets.stickpng.com/images/62a79050e42d729d928b1756.png" alt="vsCode logo" height="32">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7K73Ckm6WOuXKXUaILkjQc0MzKja9jys5lQ&usqp=CAU" alt="vsCode logo" height="32">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3AQ8FmTsQxNOcSeedV4rtW_En0lXNG9cXWA&usqp=CAU" alt="discord logo" height="32">
