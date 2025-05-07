@@ -3,9 +3,9 @@
 ## Hi 👋 I am Murat Gürgenyatağı
 #### A Software Developer from Ankara/Turkey
 ---
-- 🔭 I’m currently working on a react project [Survey Website](https://github.com/mowerq/surveyWebsite)
-- 🌱 I’m currently learning React and Node js
-- 💬 Ask me about: Flutter, React and Linux
+- 🔭 I’m currently working on a react project [Portfolio Website](https://github.com/mowerq/my-portfolio)
+- 🌱 I’m currently learning React and Java Spring
+- 💬 Ask me about: React, Java Spring and Linux
 - 📫 How to reach me: murat.gurgenyatagi@gmail.com
 ---
 
